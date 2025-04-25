@@ -16,6 +16,7 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
             MessageBox.Show("hello");
+            MessageBox.Show("second");
         }
     }
 }
